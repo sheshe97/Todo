@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sheshe97/Todo.git/static/css/main.cb4a51c0.chunk.css",
+    "main.js": "/sheshe97/Todo.git/static/js/main.5a241194.chunk.js",
+    "main.js.map": "/sheshe97/Todo.git/static/js/main.5a241194.chunk.js.map",
+    "runtime-main.js": "/sheshe97/Todo.git/static/js/runtime-main.60c14c40.js",
+    "runtime-main.js.map": "/sheshe97/Todo.git/static/js/runtime-main.60c14c40.js.map",
+    "static/js/2.6262929c.chunk.js": "/sheshe97/Todo.git/static/js/2.6262929c.chunk.js",
+    "static/js/2.6262929c.chunk.js.map": "/sheshe97/Todo.git/static/js/2.6262929c.chunk.js.map",
+    "index.html": "/sheshe97/Todo.git/index.html",
+    "static/css/main.cb4a51c0.chunk.css.map": "/sheshe97/Todo.git/static/css/main.cb4a51c0.chunk.css.map",
+    "static/js/2.6262929c.chunk.js.LICENSE.txt": "/sheshe97/Todo.git/static/js/2.6262929c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60c14c40.js",
+    "static/js/2.6262929c.chunk.js",
+    "static/css/main.cb4a51c0.chunk.css",
+    "static/js/main.5a241194.chunk.js"
+  ]
+}
